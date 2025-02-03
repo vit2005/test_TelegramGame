@@ -1,0 +1,17 @@
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Test_TelegramGame.exe
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Test_TelegramGame.deps.json
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Test_TelegramGame.runtimeconfig.json
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Test_TelegramGame.dll
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Test_TelegramGame.pdb
+D:\Projects\Test_TelegramGame\bin\Debug\net8.0\Telegram.Bot.dll
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.csproj.AssemblyReference.cache
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.AssemblyInfoInputs.cache
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.AssemblyInfo.cs
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.csproj.CoreCompileInputs.cache
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_Tel.AC14F645.Up2Date
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.dll
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\refint\Test_TelegramGame.dll
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.pdb
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\Test_TelegramGame.genruntimeconfig.cache
+D:\Projects\Test_TelegramGame\obj\Debug\net8.0\ref\Test_TelegramGame.dll
